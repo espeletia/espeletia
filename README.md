@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello there
 
-<!--
-**espeletia/espeletia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Diego and I'm a coding amateur
 
-Here are some ideas to get you started:
+- I really like type based languages, for I like to keep things simple
+- Currently learning how to be a backend dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My skills (so far)
+
+- Go
+- C
+- Relational databases (mainly PostgresSQL)
+
+# Github stats (I'm not sure why, but my classmates have this too so why not)
+
+[![espeletia’s github stats](https://github-readme-stats.vercel.app/api?username=espeletia)](https://https://github.com/espeletia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espeletia&layout=compact)](https://https://github.com/espeletia)
